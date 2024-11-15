@@ -15,7 +15,7 @@ int main() {
     gpioServo(servoPin, 1500);
     sleep(1); 
     return 0; 
-
+ //hello from Juan
 }
 
 
